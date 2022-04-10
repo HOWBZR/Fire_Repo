@@ -1,3 +1,4 @@
 WFIGS_-_Wildland_Fire_Locations_Full_History.csv filter=lfs diff=lfs merge=lfs -text
 WeatherEvents_Jan2016-Dec2021.csv filter=lfs diff=lfs merge=lfs -text
 population_data.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
