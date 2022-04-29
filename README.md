@@ -55,7 +55,7 @@ As citizens against climate change, we as a team want to identify and predict ho
 </br>
 
 ## Conclusion 
-We are able to predict fire class far more effectively then the baseline. The factors that seem to have the most impact on fire class are  . 
+We are able to predict fire class far more effectively than the baseline. The factors that seem to have the most impact on fire class are  . 
 Forest services, state and local governments, and concerned citizens can use our model to assess whether they are at risk for a severe fire using our streamlit app. They can then use the results to prepare knowing that they could be dealing with a major fire.
 
  
