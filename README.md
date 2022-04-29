@@ -1,7 +1,7 @@
 # WildFire Severity
 ## Executive Summary
 In this project, we attempt to predict the severity of a forest fire given a set of conditions in an effort to assist communities and fire fighting services an opportunity to better prepare for a potentially large fire. The research and modeling done here was done for the United States. 
-First, significant research was done to identify contribuing factors to forest fires. From there we set out to collect our data which can be observed below. Using the data gathered and knowledge gained through our research, we were able to build a model that predicts how large a forest fire would be if it happend with approx 71% accuracy. Considering the baseline percentage to beat was 33%, this model provides a considerable advantage to those chose to leverage it's predicting power.
+First, significant research was done to identify contribuing factors to forest fires. From there we set out to collect our data which can be observed below. Using the data gathered and knowledge gained through our research, we were able to build a model that predicts how large a forest fire would be if it happend with approx 71% accuracy. Considering the baseline percentage to beat was 33%, this model provides a considerable advantage to those who choose to leverage it's predicting power.
 </br>
 
 
