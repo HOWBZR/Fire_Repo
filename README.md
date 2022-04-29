@@ -48,7 +48,7 @@ As citizens against climate change, we as a team want to identify and predict ho
   - <a href="https://smoosavi.org/datasets/lstw" target="_blank">Weather</a>
   - <a href="https://droughtmonitor.unl.edu/CurrentMap.aspx" target="_blank">Drought</a>
   - <a href="https://www.icip.iastate.edu/tables/population/states-estimates" target="_blank">Population</a>
-  - <a href="https://www.icip.iastate.edu/tables/population/states-estimates" target="_blank">Population</a>
+  
 </br>
 
 </br>
